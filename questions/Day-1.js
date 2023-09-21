@@ -10,7 +10,7 @@ sayHello();
 // 👍A) "John" and ReferenceError
 // 👏B) undefined and ReferenceError
 // 💡C) ReferenceError and TypeError
-// ❤D) undefined and undefined     
+// 😄D) undefined and undefined     
   
 // Answer: B
 
