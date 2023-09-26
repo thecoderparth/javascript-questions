@@ -11,7 +11,7 @@ console.log(str);
 // 💡C) 5, true, "true"
 // 😄D) 5, false, "false"
 
-// Answer: B
+// Answer: A
 
 // Explanation: In JavaScript, -5 is considered a "truthy" value when used in a boolean context. The ! operator negates it, making it false. The String function converts false to the string "false."
   
